@@ -5,7 +5,7 @@ permalink: system-of-work/index.html
 eleventyNavigation:
   key: SystemOfWork 
   order: 1
-  title: SystemOfWork
+  title: How work works
 ---
 
 The system of work is a model of how work works. Just like a physics model, it does not tell you what to do. It shows

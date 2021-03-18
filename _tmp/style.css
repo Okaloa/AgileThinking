@@ -1338,6 +1338,11 @@ nav ul li a.active {
   background-color: rgba(255, 255, 255, var(--tw-bg-opacity)) !important;
 }
 
+.bg-green {
+  --tw-bg-opacity: 1 !important;
+  background-color: rgba(161, 212, 167, var(--tw-bg-opacity)) !important;
+}
+
 .bg-gray-50 {
   --tw-bg-opacity: 1 !important;
   background-color: rgba(249, 250, 251, var(--tw-bg-opacity)) !important;
@@ -1386,6 +1391,11 @@ nav ul li a.active {
 .dark .dark\:bg-gray-900 {
   --tw-bg-opacity: 1 !important;
   background-color: rgba(17, 24, 39, var(--tw-bg-opacity)) !important;
+}
+
+.border-green {
+  --tw-border-opacity: 1 !important;
+  border-color: rgba(161, 212, 167, var(--tw-border-opacity)) !important;
 }
 
 .border-gray-100 {
@@ -1851,6 +1861,11 @@ nav ul li a.active {
   color: rgba(255, 255, 255, var(--tw-text-opacity)) !important;
 }
 
+.text-green {
+  --tw-text-opacity: 1 !important;
+  color: rgba(136, 169, 115, var(--tw-text-opacity)) !important;
+}
+
 .text-gray-100 {
   --tw-text-opacity: 1 !important;
   color: rgba(243, 244, 246, var(--tw-text-opacity)) !important;
@@ -1869,6 +1884,11 @@ nav ul li a.active {
 .text-gray-600 {
   --tw-text-opacity: 1 !important;
   color: rgba(75, 85, 99, var(--tw-text-opacity)) !important;
+}
+
+.hover\:text-white:hover {
+  --tw-text-opacity: 1 !important;
+  color: rgba(255, 255, 255, var(--tw-text-opacity)) !important;
 }
 
 .hover\:text-gray-600:hover {

@@ -679,7 +679,7 @@ nav ul li a {
   padding-left: 0.5rem;
   padding-right: 1rem;
   --tw-text-opacity: 1;
-  color: rgba(107, 114, 128, var(--tw-text-opacity));
+  color: rgba(136, 169, 115, var(--tw-text-opacity));
 }
 
 .dark nav ul li a {
@@ -693,7 +693,7 @@ nav ul li a {
 
 nav ul li a:hover {
   --tw-text-opacity: 1;
-  color: rgba(17, 24, 39, var(--tw-text-opacity));
+  color: rgba(161, 212, 167, var(--tw-text-opacity));
 }
 
 .dark nav ul li a:hover {

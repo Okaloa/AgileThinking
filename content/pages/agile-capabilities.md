@@ -19,6 +19,6 @@ creates the fertile ground for the introduction of other (agile) practices.
 
 ### Downloads
 * [png]({{ site.url }}/content/images/agile-capabilities-model.png)
-* [pdf]({{ site.url }}/content/downloads/Agile Capabilities Model_v1.0.pdf)
+* [pdf]({{ site.url }}/content/downloads/Agile_Capabilities_Model_v1.0.pdf)
 * [ppt]({{ site.url }}/content/downloads/Agile Capabilities Model_v1.0.pptx)
 

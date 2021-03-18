@@ -180,6 +180,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy("images/")
   eleventyConfig.addPassthroughCopy("content/images/")
+  eleventyConfig.addPassthroughCopy("content/downloads/")
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
   eleventyConfig.addPassthroughCopy("_includes/experimental/");

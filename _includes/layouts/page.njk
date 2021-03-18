@@ -42,6 +42,14 @@ section: page
                     {{ layoutContent | safe }}
                     {% if (site.enableComments) and (comments !== 0) %}
                         <!-- Paste your comment code here! -->
+                        <script src="https://utteranc.es/client.js"
+                                repo="Okaloa/AgileThinking"
+                                issue-term="pathname"
+                                label="comment"
+                                theme="github-light"
+                                crossorigin="anonymous"
+                                async>
+                        </script>
                     {% endif %}
                     
                     {% if site.enablePageNavigation == true %}

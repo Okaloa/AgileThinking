@@ -1886,6 +1886,11 @@ nav ul li a.active {
   color: rgba(75, 85, 99, var(--tw-text-opacity)) !important;
 }
 
+.text-gray-800 {
+  --tw-text-opacity: 1 !important;
+  color: rgba(31, 41, 55, var(--tw-text-opacity)) !important;
+}
+
 .hover\:text-white:hover {
   --tw-text-opacity: 1 !important;
   color: rgba(255, 255, 255, var(--tw-text-opacity)) !important;

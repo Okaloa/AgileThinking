@@ -19,6 +19,12 @@ module.exports = {
       center: true,
     },
     extend: {
+      colors: {
+        'okaloa-green': {
+          light: '#A1D4A7',
+          dark: '#88A973',
+        },
+      },
       typography: {
         DEFAULT: {
           css: {

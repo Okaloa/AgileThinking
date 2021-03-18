@@ -4,7 +4,7 @@ date: Last Modified
 permalink: agile-capabilities/index.html
 eleventyNavigation:
   key: AgileCapabilities 
-  order: 1
+  order: 2
   title: AgileCapabilities
 ---
 

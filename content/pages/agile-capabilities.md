@@ -1,7 +1,7 @@
 ---
 title: Agile Capabilities
 date: Last Modified 
-permalink: agile-capabilities/
+permalink: agile-capabilities/index.html
 eleventyNavigation:
   key: AgileCapabilities 
   order: 1

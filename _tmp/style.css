@@ -1449,6 +1449,10 @@ nav ul li a.active {
   display: inline-block !important;
 }
 
+.inline {
+  display: inline !important;
+}
+
 .flex {
   display: flex !important;
 }
@@ -1499,6 +1503,10 @@ nav ul li a.active {
 
 .flex-grow {
   flex-grow: 1 !important;
+}
+
+.flex-shrink-0 {
+  flex-shrink: 0 !important;
 }
 
 .float-right {
@@ -1584,6 +1592,10 @@ nav ul li a.active {
 
 .mr-1 {
   margin-right: 0.25rem !important;
+}
+
+.ml-1 {
+  margin-left: 0.25rem !important;
 }
 
 .mr-2 {
@@ -1869,6 +1881,11 @@ nav ul li a.active {
   color: rgba(31, 41, 55, var(--tw-text-opacity)) !important;
 }
 
+.hover\:text-gray-900:hover {
+  --tw-text-opacity: 1 !important;
+  color: rgba(17, 24, 39, var(--tw-text-opacity)) !important;
+}
+
 .hover\:text-yellow-400:hover {
   --tw-text-opacity: 1 !important;
   color: rgba(251, 191, 36, var(--tw-text-opacity)) !important;
@@ -1951,6 +1968,10 @@ nav ul li a.active {
   --tw-scale-x: 1 !important;
   --tw-scale-y: 1 !important;
   transform: translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) !important;
+}
+
+.rotate-180 {
+  --tw-rotate: 180deg !important;
 }
 
 .transition-colors {

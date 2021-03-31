@@ -2,7 +2,7 @@
 title: Enablers
 date: Last Modified
 eleventyNavigation:
-    parent: AgileCapabilities
+    parent: ExplicitContext
     key: AgileCapabilitiesModelEnablers
     order: 2
     title: Enablers

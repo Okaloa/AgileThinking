@@ -24,8 +24,8 @@ making the right brain a better master, this “whole” that “goes beyond the
 words. The right brain is bad at verbalizing its thoughts. A mindset put into words seizes to be a mindset.
 
 There is a need for a “whole-brain” way that covers the gap between left- and right-brain thinking. A way that both
-recognizes the importance of methods and at the same time challenges it. A way that recognizes that mindset is what makes
-the difference and at the same admits that mindset cannot be grasped. A way that embraces paradox more than it polarizes.
+recognizes the importance of methods and at the same time challenges it. A way that recognizes that mindset is the crucial
+element and at the same admits that mindset cannot be grasped. A way that embraces paradox more than it polarizes.
 A way where the only universal truth is that there are no universal truths.
 
 ![Give me a firm place to stand on...](/content/images/lever-principle.png)

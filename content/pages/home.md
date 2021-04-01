@@ -26,8 +26,8 @@ words. The right brain is bad at verbalizing its thoughts. A mindset put into wo
 There is a need for a “whole-brain” way that covers the gap between left- and right-brain thinking. A way that both
 recognizes the importance of methods and at the same time challenges it. A way that recognizes that mindset is the crucial
 element and at the same admits that mindset cannot be grasped. A way that embraces paradox more than it polarizes.
-And now that we are at it, a way that starts from the paradox of lifting oneself up by the hairs because that is what is
-required for organizations to become truly agile.
+And now that we are at it, a way that does a serious attempt at helping to deal with the paradox of lifting oneself up by the hairs
+because that is what is required for organizations to become truly agile.
 
 ![Give me a firm place to stand on...](/content/images/lever-principle.png)
 

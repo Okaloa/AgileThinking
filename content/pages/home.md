@@ -1,11 +1,11 @@
 ---
-title: Welcome
+title: WELCOME
 date: Last Modified 
 permalink: /
 eleventyNavigation:
   key: Welcome 
   order: 0
-  title: WELCOME
+  title: Welcome
 ---
 “Give me a firm place to stand on and I will move the earth” said Archimedes as he discovered the principle behind
 levers that lift objects that are too heavy to lift. Archimedes’ insight is as valid as it ever was. For people, teams

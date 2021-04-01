@@ -4,7 +4,7 @@ date: Last Modified
 eleventyNavigation:
     parent: LearningFrame
     key: ConstraintEnabled
-    order: 1
+    order: 3
     title: Constraint enabled learning
 ---
 

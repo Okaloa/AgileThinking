@@ -4,7 +4,7 @@ date: Last Modified
 eleventyNavigation:
     parent: LearningFrame
     key: IsolatedPractice
-    order: 1
+    order: 2
     title: Isolated practice
 ---
 

@@ -21,6 +21,11 @@
   .prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 .prose hr, .prose strong {
     @apply dark:text-gray-400
   }
+
+  .prose h1 {
+    margin-bottom: -0.01em !important;
+  }
+
   .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 {
     scroll-margin-top: 3.5em;
   }

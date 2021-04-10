@@ -2,7 +2,7 @@
 title: Scaling accross the value stream
 date: Last Modified
 eleventyNavigation:
-    parent: MoreIsDifferent
+    parent: DynamicThinking
     key: ValueStream
     order: 1
     title: Scaling accross the value stream

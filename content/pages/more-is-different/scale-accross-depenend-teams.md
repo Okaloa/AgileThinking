@@ -2,7 +2,7 @@
 title: Scaling accross inter-dependend teams
 date: Last Modified
 eleventyNavigation:
-    parent: MoreIsDifferent
+    parent: DynamicThinking
     key: MultiTeam
     order: 2
     title: Scaling accross inter-dependend teams

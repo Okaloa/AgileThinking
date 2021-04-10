@@ -1,11 +1,12 @@
 ---
-title: Seeing the whole
+title: Dynamic thinking
 date: Last Modified 
-permalink: more-is-different/index.html
+permalink: dynamic-thinking/index.html
 eleventyNavigation:
-  key: MoreIsDifferent 
+  key: DynamicThinking 
   order: 4
-  title: Seeing the whole
+  title: Dynamic thinking
 ---
 
-It is not so much about scaling nor is it about de-scaling. It is about dealing with entropic forces of free play.
+For a flow system to persist (to live), it must evolve freely such that it provides greater access to its currents.
+-- Adrian Bejan

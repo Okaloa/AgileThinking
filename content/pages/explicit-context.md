@@ -1,11 +1,12 @@
 ---
-title: Making context explicit
+title: Seeing the whole
+subtitle: a context in which to think and act
 date: Last Modified 
-permalink: agile-capabilities/index.html
+permalink: see-the-whole/index.html
 eleventyNavigation:
   key: ExplicitContext 
   order: 3
-  title: Making context explicit
+  title: Seeing the whole
 ---
 
 Do experienced coaches adopt/adapt practices by taking context into account? Of course they do! Do a chosen set of

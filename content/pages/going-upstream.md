@@ -1,5 +1,6 @@
 ---
 title: Going upstream
+subtitle: only dead fish go with the flow
 date: Last Modified 
 permalink: going-upstream/index.html
 eleventyNavigation:
@@ -8,4 +9,3 @@ eleventyNavigation:
   title: Going upstream
 ---
 
-Only dead fish go with the flow.

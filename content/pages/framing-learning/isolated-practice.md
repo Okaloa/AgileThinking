@@ -9,3 +9,5 @@ eleventyNavigation:
 ---
 
 
+![Isolated practice](/content/images/isolated-practice.png)
+

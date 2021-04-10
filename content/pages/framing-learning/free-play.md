@@ -8,5 +8,4 @@ eleventyNavigation:
     title: Free play
 ---
 
-
-People repeatedly performing within the governing constraints that may or may not be explicit.
+![Free play](/content/images/free-play.png)

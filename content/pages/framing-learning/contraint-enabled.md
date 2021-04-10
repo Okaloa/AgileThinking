@@ -8,4 +8,4 @@ eleventyNavigation:
     title: Constraint enabled learning
 ---
 
-
+![Constraint enabled learning](/content/images/constraint-enabled-learning.png)

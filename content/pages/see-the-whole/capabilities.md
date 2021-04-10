@@ -2,7 +2,7 @@
 title: Capabilities
 date: Last Modified
 eleventyNavigation:
-    parent: ExplicitContext
+    parent: SeeingWhole
     key: AgileCapabilitiesModelCapabilities
     order: 4
     title: Capabilities

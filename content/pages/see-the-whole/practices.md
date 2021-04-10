@@ -2,7 +2,7 @@
 title: Practices
 date: Last Modified
 eleventyNavigation:
-    parent: ExplicitContext
+    parent: SeeingWhole
     key: AgileCapabilitiesModelPractices
     order: 1
     title: Practices

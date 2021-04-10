@@ -2,7 +2,7 @@
 title: ThinkingModels
 date: Last Modified
 eleventyNavigation:
-    parent: ExplicitContext
+    parent: SeeingWhole
     key: AgileCapabilitiesModelThinkingModels
     order: 5
     title: ThinkingModels

@@ -4,7 +4,7 @@ subtitle: a context in which to think and act
 date: Last Modified 
 permalink: see-the-whole/index.html
 eleventyNavigation:
-  key: ExplicitContext 
+  key: SeeingWhole 
   order: 3
   title: Seeing the whole
 ---

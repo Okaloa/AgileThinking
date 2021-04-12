@@ -8,6 +8,7 @@
   "githubBranch": "main",
   "navigationStyle": "vertical",
   "emoji": "💥",
+  "icon": "content/images/okaloa-favicon.png",
   "enableSearch": true,
   "enableDarkMode": true,
   "enableEditButton": true,

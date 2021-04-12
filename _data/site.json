@@ -8,7 +8,7 @@
   "githubBranch": "main",
   "navigationStyle": "vertical",
   "emoji": "💥",
-  "icon": "content/images/okaloa-favicon.png",
+  "icon": "https://agilethinking.okaloa.com/content/images/okaloa-favicon.png",
   "enableSearch": true,
   "enableDarkMode": true,
   "enableEditButton": true,

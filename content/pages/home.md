@@ -36,42 +36,42 @@ because that is what is required for organizations to become truly agile.
 
 ## draft
 
-I enjoy playing golf, writing code, developing, teaching and coaching new ideas about new ways of working. Maybe you
-enjoy swimming, cooking, painting, growing a team, starting a company, ... Since you are here, probably you enjoy
-learning about new ways of working, about how indviduals think and make decisions, about how work is organized, about
-how people and organizations adapt and transform (if they transform). If you are like me you may also enjoy
-learnig about learning, thinking about thinking, ...
+I enjoy playing golf, although I only started playing recently. It gives me a great joy when my swing hits the ball
+in the right spot. More than that, being on the golf course can be deeply gratifying.  Time passes by unnoticed,
+I am completely absorbed in hitting the ball, and suddenly I start hitting balls that go beyond the 200 meter mark
+(which is quite far for me) with little effort.
 
-Some of the above activities can be sports or hobby activities, other activities are "professional" activities that help
-earn a living, for some the distinction may not be that clear. What differentiates activities that you enjoy the most
-from other activities? What makes them so deeply gratifying at occasions? My guess (and the guess of many others) is
-that it is the combination of effortlessness and effectiveness. While I am completely absorbed in listening, observing
-what is holding indviduals or teams back in their current way of working, ideas simply pop up in my mind that connect
-with the participants in the room and catalyze new insights. Probably you have had a similar experience of effort-less
-action in your personal and, hopefully, also in your professional life.
+I also enjoy working with people, teams and organizations. Just like with golf, creating change in how work is organized
+can be deeply gratifying. It gives me great joy when an experience that I designed hits the right spot and creates an
+"aha" moment with those that are participating in the experience. Just like with golf, the best moments are when I am
+unself-concious but still fully aware of the situation and creating valuable results in the process.
 
-The idea of effortless action, and its combination of effortlessness and effectiveness, in a work context is very
-attractive. Imagine an organization in which people negotiate complex social situations with little internal struggle,
-and yet perfectly in accord with the situation. Now take this idea and scale it up to not just a team, but to an entire
-organization - an organization that can negotiate complex, changing market situations with little internal struggle in
-perfect accord with the situation. If this sounds to good to possibly be true, maybe it is.
+Effort-less actions, and its combination of effortlessness and effectiveness is so gratifying that one cannot help but
+think that this type of experience must be at the core of deep transformational change whether it be in your personal or
+your professional life, on the level of individuals, on the level of teams or even on the level of organizations. The
+idea of effortless action in a work context is very attractive in and by itself.
+
+Imagine an organization in which
+people negotiate complex social situations with little internal struggle, and yet perfectly in accord with the
+situation. Now take this idea and scale it up to not just to a team, but to an entire organization - an organization
+that can negotiate complex, changing market situations with little internal struggle in perfect accord with the
+situation. 
 
 The world is messy. The world of (organized) work is even more messy. The inevitable question that pops up is the
-question of how to move from our current state of effort-full action into the state of effort-less action. If
-effort-less action is characterized with unself-counciousness, how can it be achieved? Can we make a concious effort to
-achieve it? Or is it paradoxically, something that can only be learned if in some sense you already know it? Can it
-be learned at all?
+question of how to move from our current state of effort-full action into the state of effort-less action. If you are
+like me, one of the activities that you enjoy is learning about learning, thinking about thinking, learning about
+change. If so, you are fully aware that any type of change is hard especially one that involves creating joy while
+realizing practical results in perfect harmony between individuals and the organization that they are in. For people,
+teams and organizations to change their ways of working often involves heavy lifting that requires not just levers but
+also solid foundations.
 
 “Give me a firm place to stand on and I will move the earth” said Archimedes as he discovered the principle behind
-levers that lift objects that are too heavy to lift. Archimedes’ insight is as valid as it ever was. For people, teams
-and organizations to change their ways of working often involves the type of heavy lifting that requires not just
-levers but also solid foundations.
-
-In a left-brain, analytic thinking, dominated world, the focus is on the lever provided by methods that codify new ways
-of working based on past experience. As brain science teaches us, however, the left brain is a bad master; it provides
-levers that are built on loose sand. Left unchecked, the left brain does not take context into account; it idealizes
-solutions; and does not respond well when faced with its own limitations. Since the left brain has a hard time dealing
-with change and novelty, this proves to be especially problematic for agile methods.
+levers that lift objects that are too heavy to lift. In a left-brain, analytic thinking, dominated world, the focus is
+on the lever provided by methods that codify new ways of working based on past experience. As brain science teaches us,
+however, the left brain is a bad master; it provides levers that are built on loose sand. Left unchecked, the left brain
+does not take context into account; it idealizes solutions; and does not respond well when faced with its own
+limitations. Since the left brain has a hard time dealing with change and novelty, this proves to be especially
+problematic for agile methods.
 
 The agile mindset is better served by the right brain that recognizes the importance of context, looks at the whole (not
 just the parts) and is better at dealing with novelty. While this kind of thinking provides a more solid foundation,
@@ -88,3 +88,10 @@ because that is what is required for organizations to become truly agile.
 
 ->*Onward...*<-
 
+
+
+## snippets
+
+If effort-less action is characterized with unself-counciousness, how can it be achieved? Can we make a concious effort
+to achieve it? Or is it paradoxically, something that can only be learned if in some sense you already know it? Can it
+be learned at all?

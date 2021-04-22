@@ -9,8 +9,7 @@ eleventyNavigation:
 ---
 I enjoy playing golf, although I only started playing recently. It gives me great joy when my swing hits the ball in the
 right spot. More than that, being on the golf course can be deeply gratifying. Time passes by unnoticed, I am completely
-absorbed in hitting the ball, and suddenly, with little effort, I start hitting balls that go beyond the 200 meter
-mark.
+absorbed in my swing, and suddenly, with little effort, I start hitting balls that go beyond the 200 meter mark.
 
 I also enjoy helping people, teams and organizations that want to develop their potential. Just like with golf,
 facilitating change can be deeply gratifying. It gives me great joy when an experience that I designed for others, hits
